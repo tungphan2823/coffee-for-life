@@ -1,4 +1,4 @@
-# GitHub Repository for "Ha Noi Coffee Guide" - A Humble Beginning
+#"Ha Noi Coffee Guide" - A Humble Beginning
 
 ## Introduction
 
