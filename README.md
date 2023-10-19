@@ -41,4 +41,3 @@ Thank you for visiting our GitHub repository for the "Ha Noi Coffee Guide." We h
 
 Feel free to explore our code, and don't hesitate to reach out to us if you have any questions or suggestions.
 
-[Check out the repository now!](#)
